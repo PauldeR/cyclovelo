@@ -1,9 +1,9 @@
-@import url(../componers/container.css);
-@import url(../componers/avatar.css);
-@import url(../componers/button.css);
-@import url(../componers/banner.css);
-@import url(../componers/card.css);
-@import url(../componers/Bande.css);
+@import url(container.css);
+@import url(avatar.css);
+@import url(button.css);
+@import url(banner.css);
+@import url(card.css);
+@import url(Bande.css);
 
 @import url("https://fonts.googleapis.com/css2?family=Lora&family=Roboto:wght@100&display=swap");
 
